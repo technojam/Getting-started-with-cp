@@ -1,0 +1,8 @@
+> Self Intro (0.5 hr)
+> Intro to cp (What? Why? How?, 0.5hr)
+> DS Algo (2.0 hr)
+-------------------------Break-------------------------(0.5 hr)
+> Walkover some basic algo and ds (1.5 hr)
+> Ending quiz (0.5 hr)
+
+

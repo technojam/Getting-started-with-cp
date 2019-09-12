@@ -1,0 +1,40 @@
+> Basics of programming(in any language suitable)
+    > syntax
+    > operators
+    > conditional statements
+    > loops
+    > arrays, strings
+    > structures, pointers
+    > basics of object oriented
+
+> Data structures
+    > data types
+    > basic data structures
+        > stacks
+        > queues
+        > arrays
+        > linked list
+        > heaps
+        > trees
+    > operations of basic data structures
+        > traversing, updation, deletion
+    > comparision b/t diff ds (DMA & SMA)
+
+> Algorithms
+    > introduction to algorithms
+    > different types of algorithms
+        > dynamic programming
+        > greedy algorithms
+    > analysis of recursive and iterative algorithms
+    > asymptotic notations (big O, theta, omega)
+        > introduction to notations
+        > calculation of time complexity of some basic data structures
+    > analysis of basic algorithms
+        > binary search, quick sort, merge sort etc.
+
+> Dynamic programming
+    > introduction to dp
+    > implementation of algorithm using this technique(fibonacci, tower of hanoi, optimal bst)
+
+
+
